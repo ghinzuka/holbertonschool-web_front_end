@@ -3,10 +3,22 @@
 
 ## Concepts
 
-	For this project, we expect you to look at these concepts:
+* CSS fundamentals https://intranet.hbtn.io/concepts/875
+* CSS advanced https://intranet.hbtn.io/concepts/876
+  
+![ce6718f1b55e6c1580c6](https://github.com/ghinzuka/holbertonschool-web_front_end/assets/102736316/d8677bcd-ccbd-416d-9b8c-281d8889f0fd)
 
-CSS fundamentals
-CSS advanced
+## Resources 
+
+- **[CSS Reference - A Free Visual Guide to CSS](https://cssreference.io/)**: A comprehensive visual guide to CSS properties and rules.
+- **[Can I use...](https://caniuse.com/)**: Support tables for HTML5, CSS3, and other web technologies to help you understand browser compatibility.
+- **[CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)**: The Mozilla Developer Network's exhaustive reference for CSS.
+- **[CSS Properties | HTML Dog](https://htmldog.com/references/css/properties/)**: A detailed list and explanation of CSS properties.
+- **[Box Sizing](https://css-tricks.com/box-sizing/)**: An in-depth explanation of the box-sizing property and how it affects element dimensions.
+- **[CSS Specificity](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)**: Understand how specificity works in CSS to create more effective and predictable styles.
+- **[CSS Specificity Calculator](https://specificity.keegan.st/)**: A tool to help you calculate the specificity of your CSS selectors.
+- **[Play with CSS Selector](https://flukeout.github.io/)**: An interactive game to help you learn and practice CSS selectors.
+
 
 ## Description
 
